@@ -11,7 +11,7 @@
 , "dependencies"   : {
                      }
 
-, "devDependencies": { "tap": "0.1.3"
+, "devDependencies": { "tap": "8.0.0"
                      }
 
 , "main": "./api"
